@@ -1,0 +1,17 @@
+{
+  "name": "ui-test-assessment-master",
+  "version": "1.0.0",
+  "description": "At employees.html the following client requirement has been implemented: - The possibility to see the city of origin of the selected employees in a list.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test:e2e": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.11.0"
+  }
+}
